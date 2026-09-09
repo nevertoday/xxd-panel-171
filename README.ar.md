@@ -10,8 +10,21 @@
 
 ## عرض النماذج
 
-لتوفير موارد الحوسبة، جرى تجهيز هذه المهارة دون استدعاء نموذج صور أو توليد أعمال نموذجية. تم فحص سلامة النص والروابط وأدوات التشغيل، لكن جودة الصور الفعلية لم تُختبر. الأمثلة أدناه أوامر استخدام وليست أعمالاً مولّدة.
+Eight independently generated first-pass samples for Panel 171. Landscape outputs are 1536×864 with equal left/right halves; portrait outputs are 1152×1536 with equal top/bottom halves. Each image was dimension-checked and metadata-cleaned. The gallery records actual results; some outputs may not fully satisfy every aesthetic constraint.
 
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 ## الحالات المناسبة والمشكلات التي يحلها
 
 مناسب لمجموعات الصور الشخصية والنشر المستقل ودراسات المعارض والمرئيات اليومية. التكوين الضعيف أو الخلفية المزدحمة أو الموضوع الصغير نقطة انطلاق للاختزال وإعادة الترتيب والقص وتغيير المقياس، لا مجرد تطبيق فلتر.

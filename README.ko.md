@@ -10,8 +10,21 @@
 
 ## 샘플 작품
 
-연산 자원을 아끼기 위해 이번 배치에서는 이미지 모델을 호출하거나 예시 이미지를 생성하지 않았습니다. 원문·링크·실행 스크립트는 확인했지만 실제 생성 품질은 아직 검증하지 않았습니다. 아래 예시는 생성 작품이 아닌 호출 명령입니다.
+Eight independently generated first-pass samples for Panel 171. Landscape outputs are 1536×864 with equal left/right halves; portrait outputs are 1152×1536 with equal top/bottom halves. Each image was dimension-checked and metadata-cleaned. The gallery records actual results; some outputs may not fully satisfy every aesthetic constraint.
 
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 ## 잘 맞는 상황과 해결하는 문제
 
 개인 사진 정리, 독립 출판, 전시 습작과 라이프스타일 비주얼에 적합합니다. 평범한 구도, 복잡한 배경, 작은 피사체도 덜어내기·재배열·크롭·크기 변화로 새로운 초점을 만들 수 있습니다. 단순한 사진 필터가 아닙니다.
