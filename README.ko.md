@@ -10,21 +10,28 @@
 
 ## 샘플 작품
 
-Eight independently generated first-pass samples for Panel 171. Landscape outputs are 1536×864 with equal left/right halves; portrait outputs are 1152×1536 with equal top/bottom halves. Each image was dimension-checked and metadata-cleaned. The gallery records actual results; some outputs may not fully satisfy every aesthetic constraint.
+2026-09-09 재생성: 서로 다른 원본 이미지로 만든 AI 샘플 8개이며 가로 4개, 세로 4개입니다. 이번 배치는 159와 161–171을 포함하며 원본 파일 96개의 SHA-256은 중복되지 않습니다. 160은 변경하지 않았습니다. 각 이미지는 해당 Panel의 기본 스크립트와 전체 원문으로 생성했으며 짧은 영문 문구를 사용합니다.
 
-16:9 · 50:50
+원본 출력 PNG를 유지했으며 크기 조정, 자르기, 분할선 보정을 하지 않았습니다. 가로는 1672×941(약 16:9), 세로는 1086×1448(3:4)입니다. 가로 분할선은 중앙 부근이며 세로 원본 영역은 약 46.8–50.0%입니다. 모두 정확한 50:50 분할은 아닙니다.
 
-| sample-05 | sample-06 |
+모든 이미지를 전체 크기와 축소판으로 확인하고 메타데이터 정리를 검증했습니다. 실제 생성 결과이며 **모든 스타일 조건을 통과한 예시는 아닙니다**. 일부는 피사체·장면·문자가 크거나 세부가 많아 여백과 원문에 따른 표현이 충분하지 않습니다.
+
+[생성 및 SHA-256 검증 기록](assets/examples/unique-20260909-audit.json)
+
+### 가로 4개 · 원본 왼쪽, 디자인 오른쪽
+
+| 05 | 06 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
+| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
 
-3:4 · 50:50
+### 세로 4개 · 원본 위, 디자인 아래
 
-| sample-09 | sample-10 |
+| 09 | 10 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
+| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
+
 ## 잘 맞는 상황과 해결하는 문제
 
 개인 사진 정리, 독립 출판, 전시 습작과 라이프스타일 비주얼에 적합합니다. 평범한 구도, 복잡한 배경, 작은 피사체도 덜어내기·재배열·크롭·크기 변화로 새로운 초점을 만들 수 있습니다. 단순한 사진 필터가 아닙니다.
