@@ -8,20 +8,6 @@
 
 </div>
 
-## サンプル展示
-
-本项目已发布 8 张实际样片，包含横版与竖版，图片文件位于 `assets/examples/`。
-
-| sample-05-unique | sample-06-unique | sample-09-unique | sample-10-unique |
-| --- | --- | --- | --- |
-| ![sample-05-unique](assets/examples/sample-05-unique.png) | ![sample-05](assets/examples/sample-05.png) |
-| sample-06-unique | sample-06 |
-| ![sample-06-unique](assets/examples/sample-06-unique.png) | ![sample-06](assets/examples/sample-06.png) |
-| sample-09-unique | sample-09 |
-| ![sample-09-unique](assets/examples/sample-09-unique.png) | ![sample-09](assets/examples/sample-09.png) |
-| sample-10-unique | sample-10 |
-| ![sample-10-unique](assets/examples/sample-10-unique.png) | ![sample-10](assets/examples/sample-10.png) |
-
 ## 向いている場面と解決する課題
 
 個人の写真整理、自主出版、展示の習作、ライフスタイルのビジュアルに。平凡な構図、雑然とした背景、小さな被写体も、削減・再配置・切り抜き・尺度の変更によって焦点を作り直せます。単なる写真フィルターではありません。
